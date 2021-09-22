@@ -13,4 +13,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
+          plugin_languages: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_lines: yes
+          plugin_licenses: yes
           token: ${{ secrets.METRICS_TOKEN }}
