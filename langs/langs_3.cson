@@ -1,0 +1,78 @@
+[
+    "lang":"C"
+    "logo":"c"
+    "color":"#A8B9CC"
+    "link":"https://www.iso.org/standard/74528.html"
+,
+    "lang":"C++"
+    "logo":"cplusplus"
+    "color":"#00599C"
+    "link":"https://www.cplusplus.com/"
+,
+    "lang":"C#"
+    "name":"C%23"
+    "logo":"csharp"
+    "color":"#239120"
+    "link":"https://docs.microsoft.com/en-us/dotnet/csharp/"
+,
+    "lang":"Dart"
+    "logo":"dart"
+    "color":"#0175C2"
+    "link":"https://dart.dev/"
+,
+    "lang":"F#"
+    "name":"F%23"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAYAAACdz7SqAAAACXBIWXMAAAGzAAABswEeZuuHAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAXFJREFUSIm91r9LAzEUwPGk/oBWUPC/0c3Rpf4YRGqpOhVExKU4iIuIdBYUZ0VcdXBU1En8h6Tlrl+H5jDGS3qJvbzxeO997i6XdxHCM4BpoAMsAnXfeu8ApoAH4B1YAnrAapngBHDPMDIUBa+XBd7xEzoKkABb4wZv+R0mmsHNcYAV4Ia/kYdm8PZ/QAlc5zR2oQApsBsKXlma9oA6w63zZMkZAHu+4KWlWR9Y0XKrwLMD3i8KXliaJMCmesKOVlMDXhzwwSi06wAbaMPBqKsBrw740AaeO8AmxnDIqZ8B3iw9AI7NgjNLYgq0yBkOlhufBT4c8EmWeGpJGABtLMPBsURzwKcD7laci1xOfGV3F/f1agVxPyStMO6WUcVFh8ORAYYPBw2ONwYNON7AN+CQX1sC7HiDGhzyE28Fgxoc97hiwKMOZo2xgQZsO4Ku+fSaLJoopUzVelWFEPPqcl8IsSGlfPRBvQM1HIAFYDmkxzeWe820168oZAAAAABJRU5ErkJggg="
+    "color":"#028FCC"
+    "link":"https://fsharp.org/"
+,
+    "lang":"Go"
+    "logo":"go"
+    "color":"#00ADD8"
+    "link":"https://go.dev/"
+,
+    "lang":"Java"
+    "logo":"java"
+    "color":"#df0000"
+    "link":"https://www.java.com/"
+,
+    "lang":"Kotlin"
+    "logo":"kotlin"
+    "color":"#7F52FF"
+    "link":"https://kotlinlang.org/"
+,
+    "lang":"LiveScript"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAABo/AAAaPwGViGzGAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAg5JREFUWIXtmDFrFEEUx38vBsETgk3AFJ7tKQQk6YQUVgoWGuuAkOIaP0IsBO8DiOWKnbWCCtGUinZpLGInJoIprjtCooX+LfatGdfd29u92yWB/JqZNztv93/vvZmdPTjhmGHDLkq6A8y62Tez5/VLGoKkTR2y2cQzp8o6SFqSFElacntNUuT9tl9bcXvF7bbbkaS1ymqzIiSp63Y3nOP9Rb+WCIzcXnS7MNKlI1QVSTPe7fiPyIxUU4JawHrQXwAuZk2cbkjQIxexDiyb2c+8iXULOuftAvAR6AHzXnJ9M9tuTJCks8DNYOgq8CGwnwDdpgRNA6+J62XP+4PUnPd5jnVwA5gD3hDXzI9RHSctKFk5c8A34Dvw2GsmzTsze1abIEkt4GEwdAFYLXCrTxBxnVwGPgEPgJ2C+f2swUkISjbXa8Bb4HaZmsm7WSU8TfPB0HXgQKMRZd1znAidBl4Bp4BfxKn6XcL/66QF3QM6wAZwa5w0jSuo7W0H2CKO0t2cpT2MLTPL3BxzSZ+HJLUk7Y5YI7XX0BTwEjgP7AJPiTe/qnwu7ZGK0MDbDUlnxhAylH++OiQtA/eDoQ7xCzJhAHyh3GoqomdmLxIjnbJZ4rNLHjPAlQmKSZ75l8bO1KOSjlAfCL8KLnGYsn2qFGIxme+0TNLLvgYx/3HkUnbkBBVtjD2CPxtq1nLC8eQPtd2HX5cyYhUAAAAASUVORK5CYII="
+    "color":"#317eac"
+    "link":"https://livescript.net/"
+,
+    "lang":"Lua"
+    "logo":"lua"
+    "color":"#2C2D72"
+    "link":"https://www.lua.org/"
+,
+    "lang":"MoonScript"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA1BJREFUWIXtl01oXUUYhp8xNlWrMTGJqCAqSFVU8IfiD0RbFUFcCQoW1EqtuFGLv1AoCoIiiOiiFX8QFbsRlC50oaJptAot2o0U/LsYgmAbpLZGa3OV6+PiDGZyek7u3HvFbPquZub73u9955w5c2bgCP5nqJeqRy22j3+hblFXLrYPANTj1N/UlxfbCwDqagv8oi7tpsbRmUIrgA3AOLA5hKA6BIwCJ8S0AeDu2B4C1qufAU2gBcwAUyGEVjdGUzM3qwedw31xfFDdah4Oqet6MhJF71T/LhV/I4kH9RH1rwXMNNSL/wszq2qEXqzIHVP3V+R+qA52olu5X6gDwBbm1lgzCfdXUL4AllSMT4YQDvRsCHgQOC22DwDrk9hIRf5KYFlsN4DZ2L5RDZ0YOgzqqDqTPPbV6llJ//sKzia1pT6rHqOer+6K+Zf0aujRRPyruHD71Nk41lJPLnEmLO3O6hL1CXVDr4Y+TQzdkYx/kIyvScb745qrqzdS6q/oxMxQ8mW11JOS2LrE0CfZRefXP1vd1gnhikR0Vyk2rP6ZxC/rwtBjcaKn5xJuSgTfroi/mcS3m/EFqderO9Uv1d8jdyr231GHFyLfkwi+UhFfrjaTnAcyJ7pK3et8vJcuiTribQnh9Zqcp5KcpnptpqmNJUOn5pCuSwjjNTlLndtjVH9VxzJqf65+HSc0q67NMXRuIrTXmqOoxUa5J8k9pN6+QN1h9Tn12Ni/UH08x1BQf0yErlwg9yL159JreMuKL8iKxV81Vif0UiKwqU3uOep3JVN/qC+oF2QJllDl/Brg49htAueFECYXMDUAPA+s4fCfdQOYAHYDe4D9wCCwL4RQuUbrRMaTGW/NebwW159t5uPJTgxdXiJv7IB7VXxl020MHcyZaFp4c0Juqfdnkwt+n8WvaK36tPpDydC7ndTD4lyzvVTkVfX4Duv0q884/2y+Wz2xI0Ox2KC6o2RqWr23nbFo5C712xK/oZ5Rx8tZrMuA14BbSqFZ4CNgBzAF7KO4j50CjAFXx36KCeDWEMJ0O922sLgStVuodZhRH1L7ejZSMjWgPmxxtM1Bw+IYO5qr0fWNQD0TuAFYTvGaRihuKD8Bk8D7IYRvuq1/BHX4BwUlPEyxHxFbAAAAAElFTkSuQmCC="
+    "color":"#FBC02D"
+    "link":"https://moonscript.org/"
+,
+    "lang":"Perl"
+    "logo":"perl"
+    "color":"#2C2D72"
+    "link":"https://www.perl.org/"
+,
+    "lang":"PHP"
+    "logo":"php"
+    "color":"#777BB4"
+    "link":"https://www.php.net/"
+,
+    "lang":"Ruby"
+    "logo":"ruby"
+    "color":"#CC342D"
+    "link":"https://www.ruby-lang.org/en/"
+,
+    "lang":"Rust"
+    "logo":"rust"
+    "color":"#000000"
+    "link":"https://www.rust-lang.org/"
+]

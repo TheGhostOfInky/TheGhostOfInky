@@ -1,0 +1,36 @@
+[
+    "lang":"Python"
+    "logo":"python"
+    "color":"#3776AB"
+    "link":"https://www.python.org/"
+,
+    "lang":"JavaScript"
+    "logo":"javascript"
+    "color":"#F7DF1E"
+    "link":"https://www.javascript.com/"
+,
+    "lang":"CoffeeScript"
+    "logo":"coffeescript"
+    "color":"#2F2625"
+    "link":"https://coffeescript.org/"
+,
+    "lang":"TypeScript"
+    "logo":"typescript"
+    "color":"#3178C6"
+    "link":"https://www.typescriptlang.org/"
+,
+    "lang":"HTML5"
+    "logo":"html"
+    "color":"#E34F26"
+    "link":"https://html.spec.whatwg.org/"
+,
+    "lang":"CSS"
+    "logo":"css"
+    "color":"#1572B6"
+    "link":"https://www.w3.org/Style/CSS/"
+,
+    "lang":"Sass"
+    "logo":"sass"
+    "color":"#CC6699"
+    "link":"https://sass-lang.com/"
+]
