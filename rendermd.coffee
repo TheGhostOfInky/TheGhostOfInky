@@ -1,7 +1,7 @@
 CSON = require 'cson'
 fs = require 'fs'
-l2 = CSON.requireCSONFile("langs\\langs_2.cson") 
-l3 = CSON.requireCSONFile("langs\\langs_3.cson") 
+l2 = CSON.requireCSONFile("langs/langs_2.cson") 
+l3 = CSON.requireCSONFile("langs/langs_3.cson") 
 
 createWidget = (lang) ->
     "[![" + lang.lang + "](https://img.shields.io/badge/" + \
