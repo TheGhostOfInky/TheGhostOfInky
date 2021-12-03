@@ -24,9 +24,8 @@ renderMd = (list2,list3) ->
     |-|-|
     |Languages I'm good at:|None (I'm a noob :p)|
     |Languages I'm ok at:|#{renderList list2}|
-    |Languages I'm dipping my toes into:|#{renderList list3}|
-
-"""
+    |Languages I'm dipping my toes into:|#{renderList list3}|"""
+    
 writeFile = ->
     fs.writeFile("README.md",renderMd(l2,l3),(err)-> console.log err if err)
 
