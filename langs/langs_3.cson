@@ -4,11 +4,6 @@
     "color":"#A8B9CC"
     "link":"https://www.iso.org/standard/74528.html"
 ,
-    "lang":"C++"
-    "logo":"cplusplus"
-    "color":"#00599C"
-    "link":"https://www.cplusplus.com/"
-,
     "lang":"C#"
     "logo":"csharp"
     "color":"#239120"
@@ -28,6 +23,11 @@
     "logo":"go"
     "color":"#00ADD8"
     "link":"https://go.dev/"
+,
+    "lang":"Haskell"
+    "logo":"haskell"
+    "color":"#5D4F85"
+    "link":"https://www.haskell.org/"
 ,
     "lang":"Java"
     "logo":"java"
@@ -73,4 +73,9 @@
     "logo":"rust"
     "color":"#000000"
     "link":"https://www.rust-lang.org/"
+,
+    "lang":"VB.NET"
+    "logo":"visualstudio"
+    "color":"#5C2D91"
+    "link":"https://docs.microsoft.com/en-us/dotnet/visual-basic/"
 ]
