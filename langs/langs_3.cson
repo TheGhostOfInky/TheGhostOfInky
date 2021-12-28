@@ -10,7 +10,6 @@
     "link":"https://www.cplusplus.com/"
 ,
     "lang":"C#"
-    "name":"C%23"
     "logo":"csharp"
     "color":"#239120"
     "link":"https://docs.microsoft.com/en-us/dotnet/csharp/"
@@ -21,7 +20,6 @@
     "link":"https://dart.dev/"
 ,
     "lang":"F#"
-    "name":"F%23"
     "b64":"iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAACXBIWXMAAAGAAAABgAFo4/u0AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAZpJREFUSIm9lk9LVVEUxX87hDQ0ggwqoShKDSJwHFE6CPMbBA0d9zWCPkjRH3BW1sAeiNCoRpE10En2HEo1kCY/B+88Oj7Pve/ayxacwd17r7XOPufec27QEOoN4DIwAzyKiN0mvGMNxaeBN8A4sAAsqSP/xCCJvwPOZuF54LU6OpCBOgWs9Ih3cRt4pY79lYE6SWfm52r4t+h0cvJQBmnmrYL4bho5bgJv1VM1E9knflXd8iCeqUM1+Q/qeD/xK+q3CvET6rVUN1lh8kkt7ReoF9XNAum5OqIuqYv5MqrfC/Wf1fNNxV+ox9Wn6Xmxhzeltgu8dXWiW3RB3SgUvVSH1SdZbJ9B4k9XmGyql1BbhWTbzrI87IkfMEgm9wsaqitH38GR78F/eYsy0qDfwUf1TFE8MxnkSz5dK96g/QfqaiH+3oqzqHjYRcQX4A7Q7kkNp5FjDbgbETuNDZLJV2C2YJJjFbgXET+qCmovnNTJHLBdSLeAhYj4WafR98qMiHU6neQmy0n8V19+v4Iu/PNXcR14HBG/m/D2AG74XGnocwqwAAAAAElFTkSuQmCC"
     "color":"#028FCC"
     "link":"https://fsharp.org/"
