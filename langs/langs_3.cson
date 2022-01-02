@@ -4,6 +4,11 @@
     "color":"#A8B9CC"
     "link":"https://www.iso.org/standard/74528.html"
 ,
+    "lang":"Clojure"
+    "logo":"clojure"
+    "color":"#5881D8"
+    "link":"https://clojure.org/"
+,
     "lang":"C#"
     "logo":"csharp"
     "color":"#239120"
