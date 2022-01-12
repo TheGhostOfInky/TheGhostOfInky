@@ -19,6 +19,11 @@
     "color":"#3178C6"
     "link":"https://www.typescriptlang.org/"
 ,
+    "lang":"Ruby"
+    "logo":"ruby"
+    "color":"#CC342D"
+    "link":"https://www.ruby-lang.org/en/"
+,
     "lang":"C++"
     "logo":"cplusplus"
     "color":"#00599C"
