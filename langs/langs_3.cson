@@ -59,6 +59,11 @@
     "color":"#FBC02D"
     "link":"https://moonscript.org/"
 ,
+    "lang":"Objective–C"
+    "logo":"apple"
+    "color":"#fe881e"
+    "link":"https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+,
     "lang":"Perl"
     "logo":"perl"
     "color":"#2C2D72"
@@ -83,6 +88,11 @@
     "logo":"scala"
     "color":"#DC322F"
     "link":"https://www.scala-lang.org/"
+,
+    "lang":"Swift"
+    "logo":"swift"
+    "color":"#F05138"
+    "link":"https://www.swift.org/"
 ,
     "lang":"VB.NET"
     "logo":"visualstudio"
