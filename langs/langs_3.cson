@@ -1,4 +1,9 @@
 [
+    "lang":"Ada"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAQAAAAKsiavAAAArklEQVQY03WQoQrCYBhF7yYYFIaIiNGmxaJB38MXUMTkGwiGRaNvoFVWrKLJsDewCDaLQUWQsXQMc7h/Yyf9fOdy+b5fyoEiC+VDgS23fG2xBoLkqMmSDRNsSWIFwPWvO7yJ2FPC/b0Psa6xI2TOHYALMbNIj/kAD/qcSRJQjxsaeGRxkyu2CFM6oGoeNs00HCmbkVGm5YRjRrr4qYhPxTJ/UAMN1VNbjmy99JT3BfN4zBxRFbJ/AAAAAElFTkSuQmCC"
+    "color":"#0018c9"
+    "link":"https://www.adaic.org/"
+,
     "lang":"C"
     "logo":"c"
     "color":"#A8B9CC"
@@ -14,10 +19,20 @@
     "color":"#239120"
     "link":"https://docs.microsoft.com/en-us/dotnet/csharp/"
 ,
+    "lang":"D"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAQAAAAKsiavAAAAuElEQVQY023QPw/BYBDH8esmEpPRm7CKl2Cz2SSSzlYJBmlEY7NbDc9mwGAxYLMZWaz+dMKg7dfQpu3zcNvdffLL5YQpCoVixoQOZckUS3aCWXuqjFG0sFiwjcCJNRsOvDU6iGJCoBtHFhgRJuD6A0REGCbgnoJeBhSTDOcvEMEDzthYURsYCXk+gJsOTNAEoK6DftJV8IALOR3MsWnjsMIHAmrZk3zjk08aot18ixcvHhxxKWlr+QL/WuTt39gPMQAAAABJRU5ErkJggg=="
+    "color":"#b03931"
+    "link":"https://dlang.org/"
+,
     "lang":"Dart"
     "logo":"dart"
     "color":"#0175C2"
     "link":"https://dart.dev/"
+,
+    "lang":"Fortran"
+    "logo":"fortran"
+    "color":"#734F96"
+    "link":"https://fortran-lang.org/"
 ,
     "lang":"F#"
     "b64":"iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAACXBIWXMAAAGAAAABgAFo4/u0AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAZpJREFUSIm9lk9LVVEUxX87hDQ0ggwqoShKDSJwHFE6CPMbBA0d9zWCPkjRH3BW1sAeiNCoRpE10En2HEo1kCY/B+88Oj7Pve/ayxacwd17r7XOPufec27QEOoN4DIwAzyKiN0mvGMNxaeBN8A4sAAsqSP/xCCJvwPOZuF54LU6OpCBOgWs9Ih3cRt4pY79lYE6SWfm52r4t+h0cvJQBmnmrYL4bho5bgJv1VM1E9knflXd8iCeqUM1+Q/qeD/xK+q3CvET6rVUN1lh8kkt7ReoF9XNAum5OqIuqYv5MqrfC/Wf1fNNxV+ox9Wn6Xmxhzeltgu8dXWiW3RB3SgUvVSH1SdZbJ9B4k9XmGyql1BbhWTbzrI87IkfMEgm9wsaqitH38GR78F/eYsy0qDfwUf1TFE8MxnkSz5dK96g/QfqaiH+3oqzqHjYRcQX4A7Q7kkNp5FjDbgbETuNDZLJV2C2YJJjFbgXET+qCmovnNTJHLBdSLeAhYj4WafR98qMiHU6neQmy0n8V19+v4Iu/PNXcR14HBG/m/D2AG74XGnocwqwAAAAAElFTkSuQmCC"
@@ -63,6 +78,11 @@
     "logo":"apple"
     "color":"#fe881e"
     "link":"https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+,
+    "lang":"Pascal"
+    "b64":"iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAzElEQVQoz3XPMUoDYRBA4VlJK6iN3kBBq2CjlUcQRBAkVS5gJYgHMTYBe4OdXQJqSi1SiZWNRBCsRDEI+Szyy/7I7uuG9wZmIhIO3ZjxbeLdkzMbkWMpBUca2qb4sp0HWylYi4hwC+7y4AQ8p6kHPvNgttNJ0wi8lnrBD9iNiLBuCs7LYB9MzEcoXIEXy2XQBY+adlyCkdVSF8bg3sCDoa49jfzAZnpxM6pxCt7M1QVDcFGnF9OLB3VBK12wUq0LffBRrY9d+6On9d//Ah+N2oQNobiXAAAAAElFTkSuQmCC"
+    "color":"#2c4b84"
+    "link":"https://www.freepascal.org/"
 ,
     "lang":"Perl"
     "logo":"perl"
