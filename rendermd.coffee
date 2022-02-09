@@ -6,7 +6,7 @@ l4 = CSON.requireCSONFile "langs/langs_4.cson"
 
 createWidget = (lang) ->
     "[![" + lang.lang + "](https://img.shields.io/badge/" + encodeURIComponent(lang.lang) + "-" + encodeURIComponent(lang.color) + "?style\=flat&logo=" + \
-    (if lang.logo then lang.logo + "&logoColor\=white" else "data:image/png;base64," + lang.b64) + ")](" + lang.link + ") "
+    (if lang.logo then lang.logo + "&logoColor\=white" else "data:image/svg%2bxml;base64," + Buffer.from(lang.svg).toString("base64")) + ")](" + lang.link + ") "
 
 renderList = (list) ->
     str = ""
