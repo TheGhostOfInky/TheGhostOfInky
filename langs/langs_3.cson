@@ -84,6 +84,11 @@
     "color":"#FBC02D"
     "link":"https://moonscript.org/"
 ,
+    "lang":"Nim"
+    "logo":"nim"
+    "color":"#FFE953"
+    "link":"https://nim-lang.org/"
+,
     "lang":"Objective–C"
     "logo":"apple"
     "color":"#fe881e"
