@@ -24,6 +24,16 @@
     "color":"#CC342D"
     "link":"https://www.ruby-lang.org/en/"
 ,
+    "lang":"Lua"
+    "logo":"lua"
+    "color":"#2C2D72"
+    "link":"https://www.lua.org/"
+,
+    "lang":"C"
+    "logo":"c"
+    "color":"#A8B9CC"
+    "link":"https://www.iso.org/standard/74528.html"
+,
     "lang":"C++"
     "logo":"cplusplus"
     "color":"#00599C"
