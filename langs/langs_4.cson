@@ -13,4 +13,9 @@
     "logo":"sass"
     "color":"#CC6699"
     "link":"https://sass-lang.com/"
+,
+    "lang":"Less"
+    "logo":"less"
+    "color":"#1D365D"
+    "link":"https://lesscss.org/"
 ]
