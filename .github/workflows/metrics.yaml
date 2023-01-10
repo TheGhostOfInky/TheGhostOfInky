@@ -23,6 +23,5 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_licenses: yes
-          plugin_licenses_ratio: yes
           plugin_people: yes
           token: ${{ secrets.METRICS_TOKEN }}
