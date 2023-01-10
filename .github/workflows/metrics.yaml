@@ -15,13 +15,13 @@ jobs:
           # Your GitHub token
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_ignored: html, css, scss, sass, less, shell, batch, powershell
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used 
-          plugin_languages_recent_days: 30
+          plugin_languages_ignored: html, css, scss, sass, less, shell, batch, powershell, pug
+          plugin_languages_limit: 12
+          plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage, lines
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_licenses: yes
+          plugin_licenses_ratio: yes
           token: ${{ secrets.METRICS_TOKEN }}
