@@ -1,27 +1,35 @@
-lockfileVersion: 5.4
+lockfileVersion: '6.0'
 
-specifiers:
-  cson: ^7.20.0
-
-dependencies:
-  cson: 7.20.0
+devDependencies:
+  coffeescript:
+    specifier: ^2.7.0
+    version: 2.7.0
+  cson:
+    specifier: ^7.20.0
+    version: 7.20.0
 
 packages:
 
-  /coffeescript/1.12.7:
+  /coffeescript@1.12.7:
     resolution: {integrity: sha512-pLXHFxQMPklVoEekowk8b3erNynC+DVJzChxS/LCBBgR6/8AJkHivkm//zbowcfc7BTCAjryuhx6gPqPRfsFoA==}
     engines: {node: '>=0.8.0'}
     hasBin: true
-    dev: false
+    dev: true
 
-  /cson-parser/4.0.9:
+  /coffeescript@2.7.0:
+    resolution: {integrity: sha512-hzWp6TUE2d/jCcN67LrW1eh5b/rSDKQK6oD6VMLlggYVUUFexgTH9z3dNYihzX4RMhze5FTUsUmOXViJKFQR/A==}
+    engines: {node: '>=6'}
+    hasBin: true
+    dev: true
+
+  /cson-parser@4.0.9:
     resolution: {integrity: sha512-I79SAcCYquWnEfXYj8hBqOOWKj6eH6zX1hhX3yqmS4K3bYp7jME3UFpHPzu3rUew0oyfc0s8T6IlWGXRAheHag==}
     engines: {node: '>=10.13'}
     dependencies:
       coffeescript: 1.12.7
-    dev: false
+    dev: true
 
-  /cson/7.20.0:
+  /cson@7.20.0:
     resolution: {integrity: sha512-K7g/86vC77mJqi6PRFhd3p8U/y0R6SsCeTJb5RpOAaQdApHxCoK5JwfZ8WeJjpOZ6lyyi8tNvh3UuC184H3GWg==}
     engines: {node: '>=10'}
     hasBin: true
@@ -30,40 +38,40 @@ packages:
       extract-opts: 4.3.0
       requirefresh: 4.13.0
       safefs: 6.16.0
-    dev: false
+    dev: true
 
-  /eachr/4.5.0:
+  /eachr@4.5.0:
     resolution: {integrity: sha512-9I664RWp6p8jvcHZIwo7bWaiSaUmA1wNSLKwNZEiaYjqiTARq3cGjyRiIunsopZv4QMmX3T5Hs17QoPAzdYxfg==}
     engines: {node: '>=8'}
     dependencies:
       typechecker: 6.4.0
-    dev: false
+    dev: true
 
-  /extract-opts/4.3.0:
+  /extract-opts@4.3.0:
     resolution: {integrity: sha512-Dmssi1tgKJkQsVmbP7TgW/kbdc42SAsNf6h9ClweP+dS7O24YYMTXsNwPelxhx0LF15npiWwY5ahKtyQiNgxWA==}
     engines: {node: '>=8'}
     dependencies:
       eachr: 4.5.0
       typechecker: 6.4.0
-    dev: false
+    dev: true
 
-  /graceful-fs/4.2.11:
+  /graceful-fs@4.2.11:
     resolution: {integrity: sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==}
-    dev: false
+    dev: true
 
-  /requirefresh/4.13.0:
+  /requirefresh@4.13.0:
     resolution: {integrity: sha512-APrzWWxqnwE2Bz3ysFepAU0Dc0aYjn8jsDLFIegedn+KVCS9LykAclkf+6YaJXk3ON9l6QAm04rN+bEA89cGIg==}
     engines: {node: '>=10'}
-    dev: false
+    dev: true
 
-  /safefs/6.16.0:
+  /safefs@6.16.0:
     resolution: {integrity: sha512-IUIN5h+r2acNVkbsM5VoBUsRnaSFwQFZnzyvQsiLlgFsncLi7rrtmM4FsEgwv+xDTJzsrp79rd+/GJu2zWcR9w==}
     engines: {node: '>=10'}
     dependencies:
       graceful-fs: 4.2.11
-    dev: false
+    dev: true
 
-  /typechecker/6.4.0:
+  /typechecker@6.4.0:
     resolution: {integrity: sha512-EbOu+9szY13mhl0EsvLXnR+pTCa3gTHQQPLdce72ujcC9fRHXlVFBNXtHeRhgzLxLlKUh4zA9C0tezLDgshf+A==}
     engines: {node: '>=8'}
-    dev: false
+    dev: true

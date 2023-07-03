@@ -1,8 +1,9 @@
 {
-  "dependencies": {
-    "cson": "^7.20.0"
-  },
   "scripts": {
     "build": "coffee rendermd.coffee"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.7.0",
+    "cson": "^7.20.0"
   }
 }
